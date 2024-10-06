@@ -1,0 +1,28 @@
+:root {
+    /* Original colors */
+    --text-black-900: #151515;    /* Deep Black */
+    --text-black-100: #222222;    /* Near-black */
+    --text-black-50:  #393939;    /* Grayish black */
+    --text-white-900: #ffffff;  /* Pure White */
+    --text-white-700: #e9e9e9;  /* Off White */
+    --bg-white-900: #f2f2fc;
+    --bg-white-100: #fdf9ff;
+    --bg-white-50: #e8dfec;
+
+    /* Additional colors */
+    --bg-black-800: #1a1a1a;    /* Slightly lighter black */
+    --bg-black-700: #1f1f1f;    /* Dark grayish black */
+    --bg-black-600: #262626;    /* Light black */
+    --bg-black-500: #2d2d2d;    /* Medium black */
+    --bg-black-400: #333333;    /* Lighter black */
+    
+    --text-gray-900: #cccccc;   /* Light Gray */
+    --text-gray-800: #b3b3b3;   /* Medium Gray */
+    --text-gray-700: #999999;   /* Darker Gray */
+    --text-gray-600: #808080;   /* Even Darker Gray */
+    --text-gray-500: #666666;   /* Dark Gray */
+
+    --text-body-dark: #207bff;
+    --text-body-light: #4ea5ff;
+    --text-body: #f5f7fa;
+}
