@@ -64,3 +64,24 @@ input[type="search"]:focus {
     font-size: 14px;
     font-weight: bold;
 }
+
+
+@media (max-width:1199px) {
+
+}
+
+@media (max-width:991px) {
+}
+
+@media (max-width:767px) {
+    .footer {
+        height: 100px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .footer .ul-box{
+        text-align: center;
+        justify-content: center;
+    }
+}
