@@ -6,7 +6,7 @@ function rederectLocation(){
     const repositoryName = pathArray[1];
     console.log(repositoryName);
     
-    window.location = `/${repositoryName}/view/home.html`;
+    //window.location = `/${repositoryName}/view/home.html`;
 }
 
 setTimeout(() => {
